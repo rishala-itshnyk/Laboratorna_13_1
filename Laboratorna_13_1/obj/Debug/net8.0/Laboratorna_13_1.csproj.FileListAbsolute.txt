@@ -1,0 +1,15 @@
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/bin/Debug/net8.0/Laboratorna_13_1
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/bin/Debug/net8.0/Laboratorna_13_1.deps.json
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/bin/Debug/net8.0/Laboratorna_13_1.runtimeconfig.json
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/bin/Debug/net8.0/Laboratorna_13_1.dll
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/bin/Debug/net8.0/Laboratorna_13_1.pdb
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/Laboratorna_13_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/Laboratorna_13_1.AssemblyInfoInputs.cache
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/Laboratorna_13_1.AssemblyInfo.cs
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/Laboratorna_13_1.csproj.CoreCompileInputs.cache
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/Laboratorna_13_1.sourcelink.json
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/Laboratorna_13_1.dll
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/refint/Laboratorna_13_1.dll
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/Laboratorna_13_1.pdb
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/Laboratorna_13_1.genruntimeconfig.cache
+/Users/oleglysiak/Downloads/Telegram Desktop/Laboratorna_13_1/Laboratorna_13_1/obj/Debug/net8.0/ref/Laboratorna_13_1.dll
